@@ -1,0 +1,49 @@
+{
+	"success": true,
+	"data": {
+	"courses": [
+	{
+	   "id": 1,
+	   "code": "CS1998",
+	   "name": "Introduction to iOS Development",
+	   "status": "OPEN",
+	   "assignments": [
+	      { 
+	        "id": 1,
+	        "title": "P1",
+	        "due_date": 1234567890
+	      },
+	      {
+	        "id": 2,
+	        "title": "P2",
+	        "due_date": 1234567890
+	      }
+	   ]
+	
+	},
+	{
+	   "id": 2,
+	   "code": "CS2008",
+	   "name": "Introduction to Android Development",
+	   "status": "OPEN",
+	   "assignments": [
+	      { 
+	        "id": 1,
+	        "title": "P1",
+	        "due_date": 1234567890
+	      },
+	      {
+	        "id": 2,
+	        "title": "P2",
+	        "due_date": 1234567890
+	      }
+	   ]
+	
+	}
+	
+	
+	
+	]
+	
+	}
+}
